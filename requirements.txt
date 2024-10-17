@@ -2,3 +2,4 @@ langchain
 langchain-community
 wikipedia
 databricks-sdk
+langchain-databricks
